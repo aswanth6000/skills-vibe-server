@@ -1,0 +1,14 @@
+node_modules
+.env
+dist
+.github
+api-gateway
+gig-service
+messaging-service
+order-service
+user-service/src
+docker-compose.yml
+LICENSE
+Readme.md
+
+
