@@ -54,10 +54,3 @@ export class UserEntity {
         this.ordersReceived = ordersReceived;
     }
 }
-
-
-
-const skillSchema = new Schema({
-  value: String,
-  label: String,
-});
